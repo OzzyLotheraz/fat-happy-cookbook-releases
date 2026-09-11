@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "publishedAt": "2026-09-11T05:50:00.000Z",
+  "recipes": {
+    "path": "recipes.json",
+    "sha256": "dd21d5562f8c925e7dce3cf28d749feeb561613f5810b912919e444287ace4fb",
+    "size": 1283
+  },
+  "media": []
+}
