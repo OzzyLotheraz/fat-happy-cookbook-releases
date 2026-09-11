@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "revision": 2,
+  "recipes": [
+    {
+      "slug": "milestone-6-sync-test",
+      "title": "Milestone 6 Sync Test",
+      "description": "If you can see this recipe, published cookbook synchronization is working.",
+      "imageUrl": null,
+      "referenceUrl": null,
+      "prepMinutes": 1,
+      "cookMinutes": 0,
+      "servings": 1,
+      "difficulty": "Test",
+      "cuisine": "Test",
+      "categories": [
+        "Milestone 6"
+      ],
+      "tags": [
+        "sync-test"
+      ],
+      "published": true,
+      "ingredients": [
+        {
+          "name": "Successful sync",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "Temporary verification data. It can be removed after Milestone 6 testing.",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 0
+        }
+      ],
+      "steps": [
+        {
+          "title": "Verify",
+          "body": "If this recipe appears on the external laptop after updating to 0.6.0, the initial cookbook sync has succeeded.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 0
+        }
+      ],
+      "createdAt": "2026-09-11T05:50:00.000Z",
+      "updatedAt": "2026-09-11T05:50:00.000Z"
+    },
+    {
+      "slug": "milestone-6-sync-test-2",
+      "title": "Milestone 6 Sync Test 2",
+      "description": "If this second recipe appears without an app update, cookbook-only synchronization is working.",
+      "imageUrl": null,
+      "referenceUrl": null,
+      "prepMinutes": 2,
+      "cookMinutes": 0,
+      "servings": 2,
+      "difficulty": "Test",
+      "cuisine": "Test",
+      "categories": [
+        "Milestone 6"
+      ],
+      "tags": [
+        "sync-test",
+        "revision-2"
+      ],
+      "published": true,
+      "ingredients": [
+        {
+          "name": "Cookbook revision",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "Temporary verification data for cookbook revision 2.",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 0
+        }
+      ],
+      "steps": [
+        {
+          "title": "Verify cookbook-only sync",
+          "body": "Close and reopen the v0.6.0 family app. This recipe should appear without any Windows app update prompt.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 0
+        }
+      ],
+      "createdAt": "2026-09-11T19:35:00.000Z",
+      "updatedAt": "2026-09-11T19:35:00.000Z"
+    }
+  ]
+}
