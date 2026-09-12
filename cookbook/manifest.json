@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
-  "publishedAt": "2026-09-12T12:05:26.906Z",
+  "revision": 9,
+  "publishedAt": "2026-09-12T14:57:46.978Z",
   "recipes": {
-    "path": "recipes-r8.json",
-    "sha256": "ea0402db943efce04ea3fd40341ee958ad4bb1b34e70fe6273298f58b48187bf",
-    "size": 13606
+    "path": "recipes-r9.json",
+    "sha256": "5f7bac3f01a714193781bcca619fd6b90cfbc1c671b07a6a11b52c1461055af7",
+    "size": 21413
   },
   "media": [
     {
       "path": "3c795bf6-813c-4d13-9a54-4ae04416e825.jpg",
       "sha256": "3a6ae89f8e8269bf641509e6e350e26e1169eccca456e3a4db07fe0237bbbb84",
       "size": 1381859
+    },
+    {
+      "path": "c04772f0-208a-4981-b152-ff193618ba90.jpg",
+      "sha256": "5bfb87a2dfa5b6e4b22c74fd2173827ec8aaf5846a7f87f03cbdc1a8b865e28d",
+      "size": 206306
     }
   ]
 }
