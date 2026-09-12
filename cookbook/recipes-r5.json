@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "revision": 5,
+  "recipes": [
+    {
+      "slug": "smoked-brisket",
+      "title": "Smoked Brisket",
+      "description": "A simple seed recipe that demonstrates structured ingredients and scaling from either servings or the main ingredient.",
+      "imageUrl": "/uploads/3c795bf6-813c-4d13-9a54-4ae04416e825.jpg",
+      "referenceUrl": null,
+      "prepMinutes": 45,
+      "cookMinutes": 720,
+      "servings": 12,
+      "difficulty": "Medium",
+      "cuisine": "American BBQ",
+      "categories": [
+        "BBQ",
+        "Dinner",
+        "Beef"
+      ],
+      "tags": [
+        "smoked",
+        "brisket",
+        "low-and-slow"
+      ],
+      "published": true,
+      "ingredients": [
+        {
+          "name": "Brisket",
+          "quantity": 4,
+          "unit": "kg",
+          "note": null,
+          "scalable": true,
+          "isPrimary": true,
+          "groupName": "Main",
+          "sortOrder": 0
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": 40,
+          "unit": "g",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 1
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 40,
+          "unit": "g",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 2
+        },
+        {
+          "name": "Garlic powder",
+          "quantity": 12,
+          "unit": "g",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 3
+        },
+        {
+          "name": "Stuff",
+          "quantity": null,
+          "unit": "cloves",
+          "note": "Finely chopped",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Coleslaw",
+          "sortOrder": 4
+        }
+      ],
+      "steps": [
+        {
+          "title": "Trim and season",
+          "body": "Trim the brisket, mix the seasonings and coat the meat evenly.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 0
+        },
+        {
+          "title": "Smoke",
+          "body": "Cook low and slow until the bark is set and the brisket has taken on enough smoke.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 1
+        },
+        {
+          "title": "Finish and rest",
+          "body": "Continue cooking until probe tender, then rest thoroughly before slicing.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 2
+        },
+        {
+          "title": "Chop it like it's hard",
+          "body": "Chop it real good",
+          "imageUrl": null,
+          "groupName": "Coleslaw",
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "slug": "pancakes-for-two",
+      "title": "Pancakes for Two",
+      "description": "Simple homemade pancakes for two. \n\nLet the batter rest for 20–25 minutes before frying(optional).",
+      "imageUrl": null,
+      "referenceUrl": null,
+      "prepMinutes": 5,
+      "cookMinutes": 20,
+      "servings": 2,
+      "difficulty": "Easy",
+      "cuisine": "Norwegian",
+      "categories": [
+        "Breakfast",
+        "Dessert",
+        "Dinner"
+      ],
+      "tags": [
+        "pancakes",
+        "Norwegian"
+      ],
+      "published": true,
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 0
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": 2,
+          "unit": "dl",
+          "note": null,
+          "scalable": true,
+          "isPrimary": true,
+          "groupName": "Main",
+          "sortOrder": 1
+        },
+        {
+          "name": "Milk",
+          "quantity": 6,
+          "unit": "dl",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 2
+        },
+        {
+          "name": "Ground cinnamon",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 3
+        },
+        {
+          "name": "Butter",
+          "quantity": null,
+          "unit": null,
+          "note": "For frying only",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 4
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Optional",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Main",
+          "sortOrder": 5
+        }
+      ],
+      "steps": [
+        {
+          "title": "Mix the dry ingredients",
+          "body": "Mix the flour and cinnamon together.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 0
+        },
+        {
+          "title": "Make a smooth batter",
+          "body": "Add half of the milk and whisk until the batter is smooth and free of lumps.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 1
+        },
+        {
+          "title": "Add the remaining ingredients",
+          "body": "Add the rest of the milk and the eggs, then whisk until evenly combined.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 2
+        },
+        {
+          "title": "Rest the batter",
+          "body": "Let the batter rest for 20–25 minutes before frying.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 3
+        },
+        {
+          "title": "Fry the pancakes",
+          "body": "Fry the pancakes in a lightly buttered pan until golden on both sides.",
+          "imageUrl": null,
+          "groupName": "Main",
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "slug": "shepherd-s-pie-with-sweet-potato-topping",
+      "title": "Shepherd's Pie with Sweet Potato Topping",
+      "description": "A hearty shepherd's pie with beef, vegetables and a creamy sweet potato topping finished with Parmesan.",
+      "imageUrl": null,
+      "referenceUrl": null,
+      "prepMinutes": null,
+      "cookMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "British",
+      "categories": [
+        "Dinner"
+      ],
+      "tags": [
+        "shepherd's pie",
+        "sweet potato",
+        "ground beef"
+      ],
+      "published": true,
+      "ingredients": [
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 0
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 1
+        },
+        {
+          "name": "Celery stalks",
+          "quantity": 1.5,
+          "unit": "pcs",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 2
+        },
+        {
+          "name": "Carrots",
+          "quantity": 1.5,
+          "unit": "pcs",
+          "note": "Original recipe says 1–2",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 3
+        },
+        {
+          "name": "Aroma mushrooms",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Most mushrooms will do",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 4
+        },
+        {
+          "name": "Ground beef",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "1 package",
+          "scalable": true,
+          "isPrimary": true,
+          "groupName": "Meat Sauce",
+          "sortOrder": 5
+        },
+        {
+          "name": "Ground cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Approximately",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 6
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 1.88,
+          "unit": "tbsp",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 7
+        },
+        {
+          "name": "Red wine",
+          "quantity": 0.75,
+          "unit": "dl",
+          "note": "Can be replaced with white wine or additional stock",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 8
+        },
+        {
+          "name": "Beef stock",
+          "quantity": 2.25,
+          "unit": "dl",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 9
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": null,
+          "note": "To taste",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 10
+        },
+        {
+          "name": "Black pepper",
+          "quantity": null,
+          "unit": null,
+          "note": "To taste",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Meat Sauce",
+          "sortOrder": 11
+        },
+        {
+          "name": "Large sweet potatoes",
+          "quantity": 5,
+          "unit": "pcs",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 12
+        },
+        {
+          "name": "Butter",
+          "quantity": 37.5,
+          "unit": "g",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 13
+        },
+        {
+          "name": "Cream or Gryr",
+          "quantity": 0.56,
+          "unit": "dl",
+          "note": null,
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 14
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": null,
+          "note": "To taste",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 15
+        },
+        {
+          "name": "Black pepper",
+          "quantity": null,
+          "unit": null,
+          "note": "To taste",
+          "scalable": false,
+          "isPrimary": false,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 16
+        },
+        {
+          "name": "Parmesan",
+          "quantity": 75,
+          "unit": "g",
+          "note": "Grated, approximately",
+          "scalable": true,
+          "isPrimary": false,
+          "groupName": "Assembly",
+          "sortOrder": 17
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prepare the vegetables",
+          "body": "Clean the vegetables. Chop the onions, finely chop the garlic, and cut the celery and carrots into small dice. Cut the mushrooms into even pieces.",
+          "imageUrl": null,
+          "groupName": "Meat Sauce",
+          "sortOrder": 0
+        },
+        {
+          "title": "Cook the vegetables",
+          "body": "Heat a large pan over medium heat and cook the vegetables until completely soft, about 10 minutes. Stir frequently so they do not stick.",
+          "imageUrl": null,
+          "groupName": "Meat Sauce",
+          "sortOrder": 1
+        },
+        {
+          "title": "Brown the beef",
+          "body": "Brown the ground beef well, then combine it with the vegetables, cumin and tomato paste. Cook for another couple of minutes while stirring.",
+          "imageUrl": null,
+          "groupName": "Meat Sauce",
+          "sortOrder": 2
+        },
+        {
+          "title": "Simmer the sauce",
+          "body": "Add the red wine and beef stock. Simmer for about 20 minutes, until the sauce has thickened slightly. Season with salt and black pepper.",
+          "imageUrl": null,
+          "groupName": "Meat Sauce",
+          "sortOrder": 3
+        },
+        {
+          "title": "Make the sweet potato mash",
+          "body": "Peel the sweet potatoes and cut them into small pieces. Boil in lightly salted water until completely tender. Drain, then mash with the butter and cream or Gryr. Season with salt and black pepper.",
+          "imageUrl": null,
+          "groupName": "Sweet Potato Topping",
+          "sortOrder": 4
+        },
+        {
+          "title": "Assemble the pie",
+          "body": "Pour the meat sauce into an ovenproof dish. Spread the sweet potato mash over the top and sprinkle with grated Parmesan.",
+          "imageUrl": null,
+          "groupName": "Assembly",
+          "sortOrder": 5
+        },
+        {
+          "title": "Bake",
+          "body": "Bake at 210 °C for about 20 minutes or until golden.",
+          "imageUrl": null,
+          "groupName": "Assembly",
+          "sortOrder": 6
+        }
+      ]
+    }
+  ]
+}
