@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
-  "publishedAt": "2026-09-12T11:55:08.961Z",
+  "revision": 8,
+  "publishedAt": "2026-09-12T12:05:26.906Z",
   "recipes": {
-    "path": "recipes-r7.json",
-    "sha256": "ff989612594704ed95307a69e0cdb4367e352a11d5940f5152d8806c39187e76",
-    "size": 13984
+    "path": "recipes-r8.json",
+    "sha256": "ea0402db943efce04ea3fd40341ee958ad4bb1b34e70fe6273298f58b48187bf",
+    "size": 13606
   },
   "media": [
     {
